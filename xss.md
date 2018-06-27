@@ -24,6 +24,6 @@ http://127.0.0.1/CraftedWeb//aasp_includes/pages/notice.php?e=1<img src=x onerro
 
 ##### Vulnerability trigger screenshot：
 
-![1](C:\Users\lizhonghua\Desktop\新建文件夹\1\1.PNG)
+![1](https://github.com/lzlzh2016/CraftedWeb/blob/master/1.jpg)
 
 Note: the vulnerability will be exploited by malicious users. 
